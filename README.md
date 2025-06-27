@@ -2,6 +2,7 @@
 
 # 📝 Simple Blog Website
 A minimal and responsive blog website built using HTML, CSS, and JavaScript. It features a homepage with blog post previews, individual post pages, a dynamic search/filter function, and smooth CSS animations.
+#Live project :https://lab-blog-website.netlify.app/blog
 
 # ✨ Features
 ## 📄 Homepage listing blog posts
